@@ -1,4 +1,4 @@
 4-1-final
 =========
 
-syllabus of 4-1 term final
+please keep in mind syllabus might be updated at any time, check periodically at your own responsibility
