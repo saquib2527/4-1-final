@@ -1,0 +1,24 @@
+Reference
+---------
+Sir gave materials, AFAIK those are from Heizer/Render
+Just in case someone is interested in actual text:
+
+Operations Management by William J. Stevenson (8th ed.) -- optional
+Operations Management by Heizer and Render (9th ed.??)
+Introduction to Operations Research by Hillier and Liberman (7th ed.)
+
+Topics
+------
+Slide 1: Forecasting
+	- materials given by Sir
+	- optional: Stevenson chapter 3
+Slide 2: Inventory Management
+	- materials given by sir
+	- optional: Stevenson chapter 11 (example 4 is CT1 question)
+Slide 3: MRP
+	- materials given by sir
+slide 4: Scheduling
+	- materials given by sir
+	- optional: stevenson chapter 15
+Slide 5: OR (Simplex Method)
+	Hillier/Liberman chapter 3,4
