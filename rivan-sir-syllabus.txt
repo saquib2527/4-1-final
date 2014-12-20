@@ -15,6 +15,7 @@ slide 2: The Evolution of Management Theory
 slide 3: Organizational Structure and Design
 	- Robbins/Coulter
 	- chapter 10
+	- chapter 11 (11.1 only, leave learning organizations)
 slide 4: Power, Authority and Delegation
 	- Stoner chapter 13
 slide 5: Motivation Concepts
