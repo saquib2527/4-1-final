@@ -1,0 +1,107 @@
+Reference
+*********
+1. Design and Analysis of Fault Tolerant Digital System
+	- Barry W. Johnson
+2. (??)Software Fault Tolerance Techniques and Implementation
+ 	- By Laura L. Pullum
+	- might be needed for software ft, slide P
+	- http://mvc.kooshan.com/Software-Fault-Tolerance-Techniques-and-Implementation-Pullum.pdf
+
+Topics
+******
+chapter 1:
+----------
+slide A
+........
+1.1 (page 1 only)
+
+slide B
+.......
+1.3
+1.4
+
+
+chapter 2:
+----------
+slide C
+.......
+page 24 (fault, error, failure)
+page 27 (fault latency, error latency)
+2.4
+slide C/4,5 no mapping
+page 32, 33 (first 3 para)
+slide c/7 bridging fault - no mapping
+2.7 (equivalent definition of error on page 40 can be left)
+
+
+chapter 3:
+----------
+slide D
+.......
+page 49 (the 4 types of redundancy)
+3.4.1 (51 to first figure of 57)
+
+slide E
+.......
+page 65 to 69 (standby sparing, pair and a spare, WDT)
+page 70-71 (N modular redundancy with spares)
+page 71-73 (self-purging redundancy)
+page 75-78 (sift out modular redundancy)
+
+/*from this point onwards mappings are not so detailed,
+  might update once I finish studying these*/ 
+
+slide F
+.......
+3.6.1 (transient fault detection)
+3.6.2 (permanent fault detection)
+
+slide G
+.......
+slide is good enough, a few things from 3.5
+
+slide H
+.......
+3.5.1 (parity codes)
+3.5.3 (duplication codes)
+3.5.4 (checksums)
+3.5.7 (berger codes)
+
+slide J
+.......
+pretty much the slide I guess, couldn't find any details in book
+
+slide K
+.......
+3.5.9 (hamming codes)
+
+slide L
+.......
+3.5.5 (cyclic codes)
+
+
+chapter 4
+---------
+slide M
+.......
+4.2 (quant eval methods)
+
+slide N
+.......
+4.3.1-4.3.2 (reliability modeling)
+
+slide O
+.......
+4.3.4 (markov models)
+
+
+/*****************************************/
+slide P (software fault tolerance) has been
+taught perhaps from the second reference
+book, I guess mostly chapter 4 and 5
+/*****************************************/
+
+
+chapter 7
+---------
+7.3 (test pattern generation)
