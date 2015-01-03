@@ -105,3 +105,7 @@ book, I guess mostly chapter 4 and 5
 chapter 7
 ---------
 7.3 (test pattern generation)
+perhaps page 506-509 can be left - 
+	couldn't find anything in my lecture on these,
+	but found "algorithmic perspective of D-algorithm skipped"
+other than that full
